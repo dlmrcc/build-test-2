@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/build-test-2/static/css/main.78eb9856.css",
+    "main.js": "/build-test-2/static/js/main.e248512b.js",
+    "static/js/787.ccd56b51.chunk.js": "/build-test-2/static/js/787.ccd56b51.chunk.js",
+    "static/media/login-background-image.jpg": "/build-test-2/static/media/login-background-image.d7ee287f3591f0b8209b.jpg",
+    "index.html": "/build-test-2/index.html",
+    "main.78eb9856.css.map": "/build-test-2/static/css/main.78eb9856.css.map",
+    "main.e248512b.js.map": "/build-test-2/static/js/main.e248512b.js.map",
+    "787.ccd56b51.chunk.js.map": "/build-test-2/static/js/787.ccd56b51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78eb9856.css",
+    "static/js/main.e248512b.js"
+  ]
+}
